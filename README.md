@@ -1,2 +1,2 @@
 # CMSC204-Lab-1
-Lab 1 of CMSC204
+First lab for CMSC204
